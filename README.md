@@ -1,2 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah682&show_icons=true&theme=synthwave&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah682&show_icons=true&theme=synthwave&count_private=true&card_width=445&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah682&show_icons=true&theme=synthwave&hide_rank=true&count_private=true)
